@@ -36,8 +36,12 @@ public class Main {
 //        System.out.println(palindrome.isPalindromeSentence("aba, ba!"));
 
 //        找排列数
-        int[] arr = {1, 2, 3, 4, 5};
-        PermuteNumber permuteNumber = new PermuteNumber();
-        permuteNumber.permute(arr, 3);
+//        int[] arr = {1, 2, 3, 4, 5};
+//        PermuteNumber permuteNumber = new PermuteNumber();
+//        permuteNumber.permute(arr, 3);
+
+//        ByteDance Real smartEditor
+        SmartEditor smartEditor=new SmartEditor();
+        smartEditor.smartEditor();
     }
 }
