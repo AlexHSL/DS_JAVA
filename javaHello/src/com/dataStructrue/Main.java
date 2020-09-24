@@ -41,7 +41,9 @@ public class Main {
 //        permuteNumber.permute(arr, 3);
 
 //        ByteDance Real smartEditor
-        SmartEditor smartEditor=new SmartEditor();
-        smartEditor.smartEditor();
+//        SmartEditor smartEditor=new SmartEditor();
+//        smartEditor.smartEditor();
+
+
     }
 }
